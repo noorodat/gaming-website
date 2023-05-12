@@ -6,7 +6,7 @@ body {
     background-color: var(--bg-oxford-blue-alpha-90);
     /* font-family:  'Work Sans', sans-serif; */
     font-family: 'Oxanium', cursive;
-    background-image: url("/images/body-bg.jpg");
+    background-image: url("images/body-bg.jpg");
     color: white;
 }
 
